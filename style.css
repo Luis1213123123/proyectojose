@@ -1,0 +1,32 @@
+.inicio{
+    height:  54px;
+    width: 144px;
+    background-color: aqua;
+    position: absolute;
+    bottom: 827px;
+    left: 462px;
+}
+.nosotros{
+    height:  54px;
+    width: 160px;
+    background-color: aqua;
+    position: absolute;
+    bottom: 827px;
+    left: 620px;
+}
+.menu{
+    height:  54px;
+    width: 144px;
+    background-color: aqua;
+    position: absolute;
+    bottom: 827px;
+    left: 800px;
+}
+.contacto{
+    height:  54px;
+    width: 144px;
+    background-color: aqua;
+    position: absolute;
+    bottom: 827px;
+    left: 970px;
+}
